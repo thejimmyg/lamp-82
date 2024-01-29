@@ -1,3 +1,5 @@
+time for a virtual coffee?
+
 # README
 
 The approach in this project is to use domain specific languages for domain specific tasks:
